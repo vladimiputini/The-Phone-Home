@@ -1,0 +1,65 @@
+body{
+    font-family: verdana;
+}
+
+h1{
+    position: absolute;
+    top: 200px;
+    left: 578px;
+}
+
+#bgk img{
+    position: absolute;
+    z-index: -1;
+    left: -1px;
+    width: 100%;  
+}
+
+
+#weblogo img{
+    position: absolute;
+    height: 187px;
+    width: 187px;
+
+}
+.nav {
+    
+    position: absolute;
+    top: 116px;
+    width: 1347px;
+    left: 200px;
+    background-color: rgba(0, 0, 0, 0.83);
+    color: #ffffff;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.nav > li {
+    display: inline-block;
+    padding-right: 50px;
+    text-align: left;
+}
+
+.nav > li > a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.nav > li > a:hover {
+    color: rgb(255, 108, 0)
+}
+
+.nav > li > a: {
+    color: rgb(255, 108, 0)
+}
+
+#onderstebalk {
+    z-index: 2;
+    position: absolute;
+    top: 897px;
+    left: 0px;
+    height: 200px;
+    width: 1582px;
+    background-color: black;
+}
