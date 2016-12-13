@@ -51,10 +51,6 @@ h1{
     background-color: black;
 }
 
-.nav > li > a: {
-    color: rgb(255, 108, 0)
-}
-
 #onderstebalk {
     z-index: 2;
     position: absolute;
