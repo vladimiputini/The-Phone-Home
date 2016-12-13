@@ -56,11 +56,144 @@ h1{
     position: absolute;
     top: 897px;
     left: 0px;
-    height: 200px;
+    height: 270px;
     width: 1582px;
     background-color: black;
 }
 
+.fblogo{
+    position: absolute;
+    top: 900px;
+    z-index: 3;
+    height: 40px;
+    width: 40px;
+    top: 907px;
+}
+
+.instalogo{
+    position: absolute;
+    z-index: 3;
+    height: 40px;
+    width: 40px;
+    top: 907px;
+    left: 56px;
+    
+}
+
+.line1 {
+    background-color: gray;
+    width: 1564px;
+    position: absolute;
+    top: 964px;
+    z-index: 4;
+    height: 2px;
+}
+
+.phoneicon img{
+    
+    position: absolute;
+    top: 978px;
+    z-index: 5;
+    height: 20px;
+}
+
+.phoneicon p{
+    color: white;
+    position: absolute;
+    top: 962px;
+    z-index: 3;
+    left: 32px;
+}
+
+
+.emailicon img{
+    height: 20px;
+    position: absolute;
+    top: 1012px;
+    z-index: 3;
+}
+
+.emailicon p{
+    position: absolute;
+    top: 997px;
+    color: white;
+    left: 34px;
+    z-index: 3;
+}
+
+.mapsicon img{
+    height: 20px;
+    position: absolute;
+    top: 1044px;
+    z-index: 4;
+}
+
+.mapsicon p{
+    position: absolute;
+    color: white;
+    top: 1028px;
+    z-index: 3;
+    left: 33px;
+}
+
+
+.algemeneinformatie1 > ul{
+    position: absolute;
+    z-index: 4;
+    top: 984px;
+    color: white;
+    left: 318px;
+   
+}
+
+.algemeneinformatie1 > ul a:hover{
+    color: rgb(255, 108, 0)
+}
+
+.algemeneinformatie1 h3{
+    position: absolute;
+    z-index: 3;
+    top: 952px;
+    color: white;
+    left: 340px;
+}
+
+.algemeneinformatie2 > li{
+      text-decoration: none;
+      color: white;
+      box-sizing: border-box;
+      
+    
+}
+
+.algemeneinformatie2 > ul{
+    text-decoration: none;
+}
+
+
+.algemeneinformatie2 > li > a{
+    text-decoration: none;
+    color: white;
+}
+
+.copyrightbox{
+    position: absolute;
+    z-index: 5;
+    color: white;
+    top: 1136px;
+    font-size: 8px;
+    left: 1150px;
+}
+
+.line2{
+    background-color: gray;
+    width: 1565px;
+    height: 2px;
+    position: absolute;
+    z-index: 5;
+    left: -1140px;
+    top: -10px;
+}
 .dropbtn {
     
     color: black;
