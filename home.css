@@ -5,8 +5,8 @@ body{
 
 h1{
     position: absolute;
-    top: 200px;
-    left: 578px;
+    top: 124px;
+    left: 564px;
 }
 
 #bgk img{
@@ -19,21 +19,23 @@ h1{
 
 #weblogo img{
     position: absolute;
-    height: 187px;
-    width: 187px;
+    height: 110px;
+    width: 110px;
+    left: 30px;
+    top: 29px;
 
 }
 .nav {
-    
+    height: 30px;
     position: absolute;
-    top: 116px;
-    width: 1347px;
+    top: 45px;
+    width: 82%;
     left: 200px;
     background-color: rgba(0, 0, 0, 0.83);
     color: #ffffff;
     list-style: none;
     text-align: center;
-    padding: 20px 0 20px 0;
+    padding: 3px 3px 30px 0;
 }
 
 .nav > li {
@@ -57,7 +59,7 @@ h1{
     top: 897px;
     left: 0px;
     height: 270px;
-    width: 1582px;
+    width: 100%;
     background-color: black;
 }
 
@@ -244,7 +246,54 @@ h1{
 
 .dropdown:hover .dropdown-content {
     display: block;
+    color: blue;
 }
 
+.foto1 img{
+    border-radius: 7000px;
+    height: 175px;
+    width: 175px;
+    position: absolute;
+    top: 292px;
+    left: 234px;
+}
 
+.artikel1{
+    position: absolute;
+    top: 276px;
+    left: 314px;
+    color: black;
+}
+
+.foto2 img{
+    border-radius: 7000px;
+    height: 175px;
+    width: 175px;
+    position: absolute;
+    top: 292px;
+    left: 717px;
+}
+
+.foto3 img{
+    border-radius: 7000px;
+    height: 175px;
+    width: 175px;
+    position: absolute;
+    top: 292px;
+    left: 1259px;
+}
+
+.midblok{
+   /* top: 275px;
+    position: absolute;
+    height: 465px;
+    width: 82%;
+    left: 209px;*/
+}
+
+.rond{
+    position: absolute;
+    top: 292px;
+    
+}
 
