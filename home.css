@@ -1,36 +1,41 @@
+html {
+    width: 100%;
+}
 body{
     font-family: verdana;
     text-decoration: none;
+    width: 100%;
 }
 
 h1{
     position: absolute;
-    top: 124px;
-    left: 564px;
+    top: 200px;
+    left: 40%;
 }
 
 #bgk img{
     position: absolute;
     z-index: -1;
-    left: -1px;
+    left: 0px;
+    top: 0px;
     width: 100%;  
+    background-size: cover;
 }
 
 
 #weblogo img{
     position: absolute;
     height: 110px;
-    width: 110px;
+    width: 13%;
     left: 30px;
     top: 29px;
-
 }
 .nav {
     height: 30px;
     position: absolute;
-    top: 45px;
-    width: 82%;
-    left: 200px;
+    top: 116px;
+    width: 80%;
+    left: 13%;
     background-color: rgba(0, 0, 0, 0.83);
     color: #ffffff;
     list-style: none;
@@ -84,8 +89,9 @@ h1{
 
 .line1 {
     background-color: gray;
-    width: 1564px;
+    width: 100%;
     position: absolute;
+    left: 0px;
     top: 964px;
     z-index: 4;
     height: 2px;
@@ -184,17 +190,24 @@ h1{
     color: white;
     top: 1136px;
     font-size: 8px;
-    left: 1150px;
+    right: 5%;
 }
 
+.copyrightbox > table{ 
+    width: 300px
+}
+
+#copyrightblok > td{
+    width: 10px;
+}
 .line2{
     background-color: gray;
-    width: 1565px;
+    width: 100%;
     height: 2px;
     position: absolute;
     z-index: 5;
-    left: -1140px;
-    top: -10px;
+    top: 1125px;
+    left: 0px;
 }
 .dropbtn {
     
