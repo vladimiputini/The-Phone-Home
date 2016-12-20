@@ -1,18 +1,18 @@
 html {
     width: 100%;
 }
+
 body{
     font-family: verdana;
     text-decoration: none;
     width: 100%;
-    margin-top: 0px;
-    margin-left: 0px;
+    
 }
 
 h1{
     position: absolute;
-    top: 200px;
-    left: 40%;
+    top: 108px;
+    left: 19%;
 }
 
 #bgk img{
@@ -34,9 +34,9 @@ h1{
 }
 .nav {
     height: 27px;
-    margin-top:-168px;
+    margin-top:-89px;
     width: 83%;
-    margin-left: 221px; 
+    margin-left: 133px; 
     background-color: rgba(0, 0, 0, 0.83);
     color: #ffffff;
     list-style: none;
@@ -269,13 +269,13 @@ h1{
     width: 175px;
     position: absolute;
     top: 292px;
-    left: 234px;
+    left: 57px;
 }
 
 .artikel1{
     position: absolute;
-    top: 276px;
-    left: 314px;
+    top: 240px;
+    left: 149px;
     color: black;
 }
 
@@ -285,7 +285,7 @@ h1{
     width: 175px;
     position: absolute;
     top: 292px;
-    left: 680px;
+    left: 344px;
 }
 
 .foto3 img{
@@ -294,7 +294,7 @@ h1{
     width: 175px;
     position: absolute;
     top: 292px;
-    left: 1162px;
+    left: 620px;
 }
 
 .midblok{
@@ -305,57 +305,14 @@ h1{
     left: 209px;*/
 }
 
-.rond img{
+.rond {
    
-    margin-top: 260px;
+    margin-top: 190px;
     margin-left: -43px;
     
 }
 
-#mobile {
-    width: 100%;
-}
-
 #blok {
-    background-color: black;
     width: 100%;
-    height: 50px;
     margin-left: 0px;
-    margin-top: 0px;
-    z-index: 100;
-    top: 0px;
-}
-
-#menuknop > img {
-    height: 50px;
-    float: right;
-}
-
-#mobnav {
-    position: absolute;
-    margin-top: 0px;
-    width: 94%;
-    display: none;
-}
-
-#mobile:target #mobnav {
-    display: block;
-}
-
-#mobnav > li {
-    list-style-type: none;
-    margin-top: 0px;
-    margin-left: 0px;
-    
-}
-
-#mobnav > li > a {
-    text-decoration: none;
-    padding: 10px 20px;
-    float: left;
-    width: 100%;
-    margin-left: -40px;
-    color: white;
-    background-color: darkcyan;
-    
 }

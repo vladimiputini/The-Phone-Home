@@ -5,13 +5,11 @@ body{
     font-family: verdana;
     text-decoration: none;
     width: 100%;
-    margin-top: 0px;
-    margin-left: 0px;
 }
 
 h1{
     position: absolute;
-    top: 200px;
+    top: 112px;
     left: 40%;
 }
 
@@ -36,7 +34,7 @@ h1{
     height: 27px;
     margin-top:-168px;
     width: 83%;
-    margin-left: 221px; 
+    margin-left: 178px; 
     background-color: rgba(0, 0, 0, 0.83);
     color: #ffffff;
     list-style: none;
@@ -274,8 +272,8 @@ h1{
 
 .artikel1{
     position: absolute;
-    top: 276px;
-    left: 314px;
+    top: 226px;
+    left: 214px;
     color: black;
 }
 
@@ -312,50 +310,7 @@ h1{
     
 }
 
-#mobile {
-    width: 100%;
-}
-
 #blok {
-    background-color: black;
     width: 100%;
-    height: 50px;
     margin-left: 0px;
-    margin-top: 0px;
-    z-index: 100;
-    top: 0px;
-}
-
-#menuknop > img {
-    height: 50px;
-    float: right;
-}
-
-#mobnav {
-    position: absolute;
-    margin-top: 0px;
-    width: 94%;
-    display: none;
-}
-
-#mobile:target #mobnav {
-    display: block;
-}
-
-#mobnav > li {
-    list-style-type: none;
-    margin-top: 0px;
-    margin-left: 0px;
-    
-}
-
-#mobnav > li > a {
-    text-decoration: none;
-    padding: 10px 20px;
-    float: left;
-    width: 100%;
-    margin-left: -40px;
-    color: white;
-    background-color: darkcyan;
-    
 }
