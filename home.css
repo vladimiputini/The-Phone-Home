@@ -14,28 +14,28 @@ h1{
 }
 
 #bgk img{
+    height: 144%;
     position: absolute;
     z-index: -1;
     left: 0px;
     top: 0px;
-    width: 100%;  
+    width: 101%;  
     background-size: cover;
 }
 
 
 #weblogo img{
-    position: absolute;
-    height: 110px;
+    height: 25%;
     width: 13%;
-    left: 30px;
-    top: 29px;
+    left: 17px;
+    top: 3px;
 }
 .nav {
-    height: 30px;
+    height: 3%;
     position: absolute;
-    top: 116px;
-    width: 80%;
-    left: 13%;
+    top: 89px;
+    width: 64%;
+    left: 23%;
     background-color: rgba(0, 0, 0, 0.83);
     color: #ffffff;
     list-style: none;
@@ -263,7 +263,7 @@ h1{
 }
 
 .foto1 img{
-    border-radius: 7000px;
+    border-radius: 7000%;
     height: 175px;
     width: 175px;
     position: absolute;
@@ -279,21 +279,21 @@ h1{
 }
 
 .foto2 img{
-    border-radius: 7000px;
+    border-radius: 7000%;
     height: 175px;
     width: 175px;
     position: absolute;
     top: 292px;
-    left: 717px;
+    left: 680px;
 }
 
 .foto3 img{
-    border-radius: 7000px;
+    border-radius: 7000%;
     height: 175px;
     width: 175px;
     position: absolute;
     top: 292px;
-    left: 1259px;
+    left: 1162px;
 }
 
 .midblok{
@@ -304,9 +304,10 @@ h1{
     left: 209px;*/
 }
 
-.rond{
-    position: absolute;
-    top: 292px;
+.rond img{
+   
+    margin-top: 260px;
+    margin-left: -43px;
     
 }
 
